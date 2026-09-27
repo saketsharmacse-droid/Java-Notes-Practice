@@ -39,7 +39,7 @@ class c1{
 //modifier       class      package     subclass    world
 //Public            Y           Y           Y         Y
 //Protected         Y           Y           Y         N
-//Default           Y           Y           N         N
+//Default           Y           Y           N         N       (default --> no modifier)
 //Private           Y           N           N         N
 
 //subclass: dusre package ke class se inherit krna
